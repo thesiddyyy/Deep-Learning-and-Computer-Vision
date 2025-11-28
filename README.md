@@ -1,9 +1,6 @@
 # Deep-Learning-and-Computer-Vision
 Deep Learning and Computer Vision projects including ANN, CNN, RNN, transfer learning, OpenCV, image classification, and real-world applications using TensorFlow, Keras, and PyTorch.
 
-
-# 🧠 Deep Learning and Computer Vision
-
 A collection of Deep Learning and Computer Vision projects built using **TensorFlow**, **Keras**, **OpenCV**, and **Neural Network architectures**.  
 This repository showcases practical implementations of **ANN**, **CNN**, **RNN**, **transfer learning**, **image classification**, **OpenCV image processing**, and various DL/CV experiments.
 
